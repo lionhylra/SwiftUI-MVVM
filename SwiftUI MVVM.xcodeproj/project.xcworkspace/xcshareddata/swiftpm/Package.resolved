@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIRemoteImage",
+        "repositoryURL": "https://github.com/lionhylra/SwiftUIRemoteImage",
+        "state": {
+          "branch": null,
+          "revision": "a9822e480aee8bdd87346fd1b2888836c22d3123",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
